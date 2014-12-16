@@ -15,9 +15,9 @@ Therefor, the number given has to be a multiple of four.
 
 ```AddAnalogOut(BusX+104+j) ```
 
-the BusX species the subbus number by the dip switches in the BUS driver card with subbus decoder. Here, 104 is just an example of the hardware address set on the analog output board.  
+the BusX species the subbus number by the dip switches in the BUS driver card with subbus decoder. Here, "104" is just an example of the hardware address set on the analog output board.  
 ![alt tag](https://cloud.githubusercontent.com/assets/4612912/5460561/29ba624e-8564-11e4-823e-a9c001487fac.JPG
 )
-the red dip switch defines the hardware address.
+the hardware takes 8bits to define each analog output channel. The red dip switch represents 6 highest bits of the address hardware address. The two least bit which automatically being assigned to each channel.  
 
 
