@@ -19,6 +19,6 @@ the BusX species the subbus number by the dip switches in the BUS driver card wi
 ![alt tag](https://cloud.githubusercontent.com/assets/4612912/5460790/1d69868a-8566-11e4-84d6-260acf9ef68d.JPG
 )
 
-The hardware takes 8bits to define each analog output channel. The red dip switch represents 6 highest bits of the address hardware address. The two least bit which automatically being assigned to each output channel on board.  
+The hardware takes 8bits to define each analog output channel. The red dip switch represents 6 highest bits of the address hardware address. The two least bit which are automatically being assigned to each output channel on board.  
 
 
